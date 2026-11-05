@@ -1,0 +1,22 @@
+KINDT ENTERPRISE SUITE 1.2.0 – BEDINGUNGEN DER KOSTENLOSEN AUSGABE
+Stand: 5. November 2026
+
+1. Verhältnis zur unveränderten Kindt-Lizenz
+Für die eigene Kindt-Software gilt die Kindt Software Proprietary License v1.0 unverändert. Die folgenden ausdrücklich produktspezifischen Regeln ergänzen sie gemäß ihren Abschnitten 1 und 2 für die erstmalige künftige Überlassung der hier bezeichneten kostenlosen Ausgabe der Kindt Enterprise Suite 1.2.0. Soweit sie die zulässigen Nutzungszwecke enger bestimmen, sind sie insoweit die spezielleren Produktbedingungen. Alle übrigen Bestimmungen der Kindt-Lizenz bleiben bestehen.
+
+2. Kostenlose nichtkommerzielle Nutzung
+Rechtmäßige Empfänger dürfen die bereitgestellte Ausgabe für eigene private oder sonstige nichtkommerzielle Zwecke ohne Lizenzentgelt installieren und ausführen. Diese Ausgabe enthält keine Abonnements. Es besteht keine Pflicht zu einer Registrierung bei Kindt-Software, einem Herstellerkonto oder einer Online-Aktivierung. Die Einrichtung lokaler Benutzerkonten und die Anmeldung zum Schutz lokaler beziehungsweise im LAN gespeicherter Daten bleiben erforderlich.
+
+3. Kommerzielle Nutzung nur mit Erlaubnis
+Kommerzielle Nutzung durch Dritte ist nur nach vorheriger Erlaubnis des Rechteinhabers Stephan Kindt zulässig. Dazu zählen insbesondere die Nutzung für eigene auf Erwerb gerichtete Tätigkeiten, interne betriebliche Nutzung für kommerzielle Zwecke und die Nutzung zur Erbringung kommerzieller Leistungen für Kunden. Eine kostenlose Bereitstellung der Software erteilt diese Erlaubnis nicht. Eine Erlaubnis kann über kindt.software@proton.me angefragt werden; die Anfrage allein begründet keine Erlaubnis und kein Abonnement.
+
+4. Closed Source und Weitergabe
+Die eigene Anwendung ist proprietär und Closed Source. Die Bereitstellung ausführbarer Dateien begründet keinen Anspruch auf eigenen Kindt-Quellcode. Die in der Kindt-Lizenz geregelten Grenzen der eigenständigen Weiterverbreitung, öffentlichen Bereitstellung, Vermietung und Unterlizenzierung bleiben bestehen. Die öffentliche Bereitstellung durch den Rechteinhaber erlaubt Empfängern nicht automatisch eigene öffentliche Spiegel oder Weitervermarktung.
+
+5. Drittsoftware und zwingendes Recht
+Diese Produktregeln gelten ausschließlich für die eigene Kindt-Software. Eigenständige Rechte an Drittsoftware, deren Original-Lizenzen, notwendige Hinweise, Bibliotheksaustauschrechte und vorgeschriebene Fremdquellen werden nicht eingeschränkt. Dies umfasst insbesondere nach den einschlägigen Drittbedingungen erforderliche Rechte zur Änderung für den eigenen Gebrauch sowie zum Reverse Engineering für das Debuggen solcher Änderungen; für betroffene Komponenten und ihr Zusammenwirken gehen diese Rechte entgegenstehenden Bestimmungen vor. Insbesondere werden kommerzielle Nutzungsrechte aus eigenständigen Drittanbieter-Lizenzen nicht durch diese Regeln entzogen. Zwingende gesetzliche Rechte, insbesondere gesetzliche Software- und Verbraucherrechte sowie die Haftungs- und Gewährleistungsregeln der Kindt-Lizenz, bleiben unberührt. Für in einer Windows-Ausgabe enthaltene Microsoft-Anteile gelten zusätzlich die dort ausdrücklich vereinbarten Schutzbedingungen.
+
+6. Lieferumfang und zeitliche Grenze
+Die Produktbedingungen sind Bestandteil des vollständigen Lieferpakets und werden vor der Überlassung zugänglich gemacht. Die ursprüngliche Kindt-Lizenz sowie vollständige Drittbeilagen bleiben beigefügt. Bei einer individuell vereinbarten Windows-Übergabe werden diese Produktbedingungen und der Windows-Zusatz vorab in das konkrete Angebot aufgenommen. Bereits zuvor tatsächlich eingeräumte Nutzungsrechte werden durch diesen Text nicht rückwirkend geändert oder entzogen. Eine alte unveränderte Anwendungskopie wird nicht nachträglich als unter diesen Regeln angenommen ausgegeben.
+
+Rechteinhaber und Kontakt: Stephan Kindt, Kindt-Software, kindt.software@proton.me

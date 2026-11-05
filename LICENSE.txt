@@ -1,0 +1,42 @@
+KINDT SOFTWARE PROPRIETARY LICENSE v1.0
+Copyright (c) 2026 Stephan Kindt. Alle Rechte vorbehalten.
+Stand: 29. Oktober 2026
+
+1. Geltungsbereich
+Diese Lizenz gilt für Softwareprodukte und zugehörige Materialien von Stephan Kindt, soweit sie ausdrücklich unter dieser Lizenz bereitgestellt werden (nachfolgend „Software“). Abweichende, produktspezifische Lizenz- oder Vertragsbedingungen haben für das jeweilige Produkt Vorrang. Für Komponenten Dritter gelten deren jeweilige Lizenzbedingungen.
+
+2. Einräumung von Nutzungsrechten
+Rechtmäßigen Empfängern wird ein einfaches (nicht ausschließliches), nicht übertragbares Nutzungsrecht eingeräumt, die Software in der bereitgestellten Form für eigene private, berufliche oder interne betriebliche Zwecke zu installieren und auszuführen, soweit für das konkrete Produkt keine ausdrücklich abweichenden Bedingungen gelten. Die Lizenz gestattet keine öffentliche Bereitstellung oder eigenständige Weitervermarktung der Software.
+
+Ein als kostenlos gekennzeichnetes Produkt darf im angegebenen Funktionsumfang ohne Lizenzentgelt genutzt werden. Daraus entsteht kein Anspruch auf zukünftige kostenlose Versionen, Updates, Dienstleistungen oder zusätzliche Funktionen. Entgeltpflichtige Funktionen und Editionen dürfen nur mit entsprechender Berechtigung genutzt werden.
+
+3. Vorbehaltene Rechte und Beschränkungen
+Sämtliche nicht ausdrücklich eingeräumten Rechte bleiben vorbehalten. Ohne vorherige Zustimmung des Rechteinhabers sind insbesondere die eigenständige öffentliche Weiterverbreitung, Veröffentlichung, Vermietung, Unterlizenzierung, kommerzielle Verwertung von Programmkopien sowie die Verbreitung bearbeiteter Versionen nicht gestattet, soweit nicht zwingendes Recht etwas anderes erlaubt. Urheberrechts-, Marken- und Herkunftshinweise dürfen nicht unzulässig entfernt oder verfälscht werden.
+
+Das Untersuchen, Reverse Engineering, Dekompilieren oder Disassemblieren ist nur insoweit untersagt, wie dies gesetzlich zulässig ist. Zwingende Rechte, insbesondere zur Sicherung, Beobachtung und Untersuchung des Programmverhaltens sowie zur Herstellung von Interoperabilität nach §§ 69d und 69e UrhG, bleiben unberührt.
+
+4. Quellcode und Eigentum
+Die Bereitstellung ausführbarer Dateien begründet keinen Anspruch auf Herausgabe des Quellcodes. An der Software werden keine Eigentums- oder ausschließlichen Verwertungsrechte übertragen. Rechte Dritter bleiben unberührt.
+
+5. Drittsoftware und Open-Source-Komponenten
+Enthält die Software Komponenten Dritter, gelten für diese Komponenten die jeweils anwendbaren Lizenzbedingungen. Erforderliche Copyright-Hinweise, Lizenztexte, Quellcodeangebote und sonstige Pflichten aus Drittanbieter-Lizenzen müssen zusätzlich bereitgestellt und eingehalten werden. Diese Lizenz schränkt Rechte aus solchen Lizenzen nicht ein.
+
+6. Updates, Verfügbarkeit und Funktionen
+Soweit nicht ausdrücklich anders zugesagt, besteht kein Anspruch auf Updates, Fehlerbehebungen, Unterstützung, dauerhafte Verfügbarkeit bestimmter Funktionen oder Kompatibilität mit bestimmten Systemen. Bereits vertraglich eingeräumte Rechte und zwingende gesetzliche Ansprüche bleiben unberührt.
+
+7. Gewährleistung und Haftung
+Für unentgeltlich bereitgestellte Software gelten die gesetzlichen Haftungs- und Gewährleistungsregeln. Bei entgeltlicher Bereitstellung gelten die jeweils vereinbarten Bedingungen und zwingenden gesetzlichen Vorschriften.
+
+Die Haftung für Vorsatz und grobe Fahrlässigkeit, für Schäden aus der Verletzung von Leben, Körper oder Gesundheit sowie nach zwingenden gesetzlichen Haftungsvorschriften bleibt unberührt. Im Übrigen gelten Haftungsbeschränkungen nur im gesetzlich zulässigen Umfang. Insbesondere werden gesetzliche Verbraucherrechte durch diese Lizenz nicht ausgeschlossen.
+
+8. Beendigung
+Bei einem erheblichen Verstoß gegen diese Lizenz können die hier eingeräumten Nutzungsrechte nach Maßgabe des anwendbaren Rechts beendet werden. Gesetzlich vorgeschriebene Abhilfemöglichkeiten, bestehende vertragliche Rechte und zwingende Schutzvorschriften bleiben unberührt.
+
+9. Anwendbares Recht
+Es gilt deutsches Recht, soweit eine solche Rechtswahl zulässig ist. Zwingende verbraucherschützende Bestimmungen und gesetzliche Gerichtsstandsregelungen bleiben unberührt.
+
+10. Kontakt
+Rechteinhaber: Stephan Kindt
+Kontakt: kindt.software@proton.me
+
+ENDE DER LIZENZ
