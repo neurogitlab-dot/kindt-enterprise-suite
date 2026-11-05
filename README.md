@@ -39,7 +39,23 @@ Linux ist auf Ubuntu 26.04.1 LTS x86-64 mit glibc 2.43 abgenommen. Andere Distri
 
 ## Einblicke
 
-![Unternehmenskalender der tatsächlichen Anwendung](assets/screenshots/calendar.jpg)
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.jpg)
+
+### Individuelle Designs
+![Darstellung](screenshots/appearance.jpg)
+
+### Unternehmenskalender
+![Kalender](screenshots/calendar.jpg)
+
+### Globale Suche
+![Suche](screenshots/search.jpg)
+
+### Anmeldung
+![Anmeldung](screenshots/login.jpg)
+
 
 Tatsächliche Windows-Browseraufnahme mit ausschließlich synthetischen Abnahmedaten. [Weitere Ansichten: Übersicht, Suche, Anmeldung und persönliche Farben](docs/SCREENSHOTS.md). Die Bilder illustrieren die Anwendung und erteilen keine Windows-Downloadfreigabe.
 
