@@ -6,6 +6,16 @@ Kindt Enterprise Suite verbindet Unternehmensverwaltung, Dokumente, Kalender, Fi
 
 Diese GitHub-Preview präsentiert den bestehenden Funktionsstand **1.2.0**. Die Linux-Downloads enthalten die bereits geprüften nativen Programme samt vollständigen Lizenz-/Quellenbeilagen und den Bedingungen der kostenlosen Edition. Es wurden dafür keine neuen Anwendungsfunktionen entwickelt. Die ursprünglichen FINAL-Archive bleiben erhalten.
 
+## Download
+
+**Linux Desktop und Server – Version 1.2.0 Preview**
+
+[Linux-Version herunterladen](https://github.com/neurogitlab-dot/kindt-enterprise-suite/releases/tag/v1.2.0-preview)
+
+Windows-Version: derzeit noch nicht öffentlich verfügbar.
+
+**Kostenlos · Closed Source · Offline nutzbar**
+
 ## Funktionen
 
 | Arbeitsbereich | Enthaltene Funktionen |
